@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Alok Singh 👋
+
 
 ### 👨‍💻 About Me
 # Hi there, I'm Alok Singh 👋
@@ -61,11 +61,10 @@ I am always open to collaborating on interesting projects or just having a good 
 ![JWT Authentication](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ---
 
-### 📊 Coding & Content
 ### 📊 Coding & Platforms
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
-![NeetCode](https://img.shields.io/badge/NeetCode-1E1E1E?style=for-the-badge)
+![NeetCode](https://img.shields.io/badge/NeetCode-1E1E1E?style=for-the-badge&logo=code&logoColor=white)
 <!-- 
 GitHub Stats Card 
 You can uncomment the lines below and replace 'aloksingh-toc' with your exact username if you want dynamic profile stats!
