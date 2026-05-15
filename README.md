@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 # Hi there, I'm Alok Singh 👋
 
 ### 👨‍💻 About Me
-I am a backend-focused developer with a strong foundation in Core Java, Spring Boot, and Microservices architecture. While I am a fresher, I approach my learning and projects with the depth and rigor of an experienced engineer, diving deep into concepts like JVM architecture and the Java Collections Framework. I enjoy tackling complex architectural challenges, optimizing algorithms, and building scalable systems like my UPI Payment Gateway Simulation and full-stack Library Management System.
+# Hi there, I'm Alok Singh 👋
+
+I am a software engineer driven by a passion for crafting robust, scalable backend systems. While my technical core revolves around Java, Spring Boot, and microservices architecture, my real-world background in financial services gives me a unique perspective on building secure, precision-critical applications—like my recent UPI Payment Gateway Simulation.
+
+I approach my development journey with the curiosity of a lifelong learner and the rigor of an experienced engineer. Whether I am deep-diving into JVM architecture, optimizing REST APIs, or tackling algorithmic puzzles, I love the process of turning complex problems into elegant, efficient solutions.
+
+When I am away from the keyboard, you can usually find me creating tech and exploration content for YouTube, traveling to new cities, or experimenting with vintage aesthetic photography. 
+
+I am always open to collaborating on interesting projects or just having a good chat about tech. Let's connect!
 
 ---
 
