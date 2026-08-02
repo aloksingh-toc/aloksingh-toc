@@ -3,7 +3,7 @@
 <h1>Alok Kumar Singh</h1>
 
 <p>
-<b>Backend Engineer</b> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Microservices
+Backend engineer — payments, APIs, and the correctness-critical plumbing underneath.
 </p>
 
 <p>
@@ -30,9 +30,11 @@
 
 ## About
 
-I build robust, scalable backend systems. My technical core is Java, Spring Boot, and microservices architecture, and a background in financial services shapes how I approach secure, precision-critical work — most recently a **UPI Payment Gateway Simulation**.
+I work on backend systems where getting it wrong is expensive — payments, authentication, transaction state. Mostly Java and Spring Boot.
 
-Away from the keyboard, I travel to new cities and experiment with vintage-aesthetic photography.
+Right now that means modelling a UPI payment gateway: how a transaction moves through routing, confirmation, and reversal, and what happens when each of those steps fails.
+
+Outside of that, I travel and shoot vintage-aesthetic photography.
 
 ## Currently
 
