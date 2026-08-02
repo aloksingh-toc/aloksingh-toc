@@ -66,12 +66,21 @@ Away from the keyboard: traveling to new cities and experimenting with vintage-a
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<p><b>Databases & Tools</b></p>
+<p><b>Databases</b></p>
 <p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/NoSQL-39457E?style=flat-square"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+<p><b>Version Control & Workflow</b></p>
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=flat-square"/>
 </p>
 
 </div>
@@ -80,28 +89,36 @@ Away from the keyboard: traveling to new cities and experimenting with vintage-a
 
 <h2>🚀 Featured Projects</h2>
 
-<a href="https://github.com/aloksingh-toc/upi-payment-simulation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=upi-payment-simulation&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="UPI Payment Simulation"/>
-</a>
-<a href="https://github.com/aloksingh-toc/AI-Resume-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=AI-Resume-Analyzer&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="AI Resume Analyzer"/>
-</a>
-<br>
-<a href="https://github.com/aloksingh-toc/library-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=library-management-system&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="Library Management System"/>
-</a>
-<a href="https://github.com/aloksingh-toc/Personal-Finance-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=Personal-Finance-Tracker&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="Personal Finance Tracker"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aloksingh-toc&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksingh-toc&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390" height="160" alt="Top languages"/>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>💳 UPI Payment Simulation</h3>
+<p>Models the UPI transaction lifecycle end to end — request routing, idempotency handling, and failure and reversal flows.</p>
+<p><i>Java · Spring Boot · MySQL</i></p>
+<a href="https://github.com/aloksingh-toc/upi-payment-simulation"><b>View repository →</b></a>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>📄 AI Resume Analyzer</h3>
+<p>Parses resumes and scores them against a target job description, surfacing keyword and skill gaps.</p>
+<p><i>Java · Spring Boot · React</i></p>
+<a href="https://github.com/aloksingh-toc/AI-Resume-Analyzer"><b>View repository →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>📚 Library Management System</h3>
+<p>Full CRUD system for cataloguing, issuing, and returning books, with role-based access for staff and members.</p>
+<p><i>Java · Spring Boot · MySQL</i></p>
+<a href="https://github.com/aloksingh-toc/library-management-system"><b>View repository →</b></a>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>💰 Personal Finance Tracker</h3>
+<p>Tracks income and expenses with category breakdowns and spending summaries over time.</p>
+<p><i>Java · Spring Boot · MySQL</i></p>
+<a href="https://github.com/aloksingh-toc/Personal-Finance-Tracker"><b>View repository →</b></a>
+</td>
+</tr>
+</table>
 
 </div>
 
