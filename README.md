@@ -1,76 +1,134 @@
+<div align="center">
 
+<h1>Hi, I'm Alok Kumar Singh 👋</h1>
 
-<!--
-**aloksingh-toc/aloksingh-toc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><b>Backend Engineer</b> · Java · Spring Boot · Microservices</p>
 
-Here are some ideas to get you started:
+<p>
+📍 Bengaluru, India &nbsp;·&nbsp; Open to <b>backend</b> and <b>full-stack</b> roles across India
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+I build robust, scalable backend systems. My background in financial services shapes
+how I approach secure, precision-critical work — most recently a
+<b>UPI Payment Gateway Simulation</b>.
+<br>
+Away from the keyboard: traveling to new cities and experimenting with vintage-aesthetic photography.
+</p>
 
+<p>
+<a href="https://www.linkedin.com/in/aloksingh-toc">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:aloksingh.toc@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
 
-### 👨‍💻 About Me
-# Hi there, I'm Alok Singh 👋
+</div>
 
-I am a software engineer driven by a passion for crafting robust, scalable backend systems. While my technical core revolves around Java, Spring Boot, and microservices architecture, my real-world background in financial services gives me a unique perspective on building secure, precision-critical applications—like my recent UPI Payment Gateway Simulation.
+<div align="center">
 
-I approach my development journey with the curiosity of a lifelong learner and the rigor of an experienced engineer. Whether I am deep-diving into JVM architecture, optimizing REST APIs, or tackling algorithmic puzzles, I love the process of turning complex problems into elegant, efficient solutions.
+<h2>⚡ Currently</h2>
 
-When I am away from the keyboard, you can usually find me creating tech and exploration content for YouTube, traveling to new cities, or experimenting with vintage aesthetic photography. 
+<p>
+🔭 &nbsp;Building <b>UPI Payment Simulation</b> — modelling the transaction lifecycle end to end
+<br>
+🌱 &nbsp;Going deeper on <b>JVM internals</b>, <b>system design</b>, and REST API performance
+<br>
+💼 &nbsp;Open to <b>internships</b> and <b>full-time opportunities</b>
+</p>
 
-I am always open to collaborating on interesting projects or just having a good chat about tech. Let's connect!
+</div>
 
----
+<div align="center">
 
-### 🛠️ Tech Stack & Tools
+<h2>🛠️ Tech Stack</h2>
 
-**Backend & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<p><b>Backend & Architecture</b></p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0089D6?style=flat-square&logo=coda&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-2C2255?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-### 🖥️ Frontend & UI
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p><b>Frontend</b></p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-### 🗄️ Database & Version Control
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-39457E?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p><b>Databases & Tools</b></p>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
-### 🧠 Concepts & Architecture
-![System Design](https://img.shields.io/badge/System_Design-2C2255?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-0089D6?style=for-the-badge&logo=coda&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_&_Algorithms-0A202D?style=for-the-badge)
-![Object-Oriented Programming](https://img.shields.io/badge/OOP-B07219?style=for-the-badge)
-![JWT Authentication](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
----
+</div>
 
-### 📊 Coding & Platforms
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
-![NeetCode](https://img.shields.io/badge/NeetCode-1E1E1E?style=for-the-badge&logo=code&logoColor=white)
-<!-- 
-GitHub Stats Card 
-You can uncomment the lines below and replace 'aloksingh-toc' with your exact username if you want dynamic profile stats!
--->
-<!-- 
----
-### 📈 GitHub Stats
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloksingh-toc&show_icons=true&theme=radium)
--->
+<div align="center">
+
+<h2>🚀 Featured Projects</h2>
+
+<a href="https://github.com/aloksingh-toc/upi-payment-simulation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=upi-payment-simulation&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="UPI Payment Simulation"/>
+</a>
+<a href="https://github.com/aloksingh-toc/AI-Resume-Analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=AI-Resume-Analyzer&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="AI Resume Analyzer"/>
+</a>
+<br>
+<a href="https://github.com/aloksingh-toc/library-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=library-management-system&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="Library Management System"/>
+</a>
+<a href="https://github.com/aloksingh-toc/Personal-Finance-Tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aloksingh-toc&repo=Personal-Finance-Tracker&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" alt="Personal Finance Tracker"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<h2>📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aloksingh-toc&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB" height="160" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksingh-toc&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390" height="160" alt="Top languages"/>
+
+</div>
+
+<div align="center">
+
+<h2>🧩 Problem Solving</h2>
+
+<p>
+<a href="https://leetcode.com/u/aloksingh-toc/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/profile/aloksingh_toc">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+<div align="center">
+
+<h2>🤝 Let's Connect</h2>
+
+<p>
+Open to collaborating on interesting backend projects — or just a good conversation about JVM internals.
+<br>
+Reach me at <a href="mailto:aloksingh.toc@gmail.com">aloksingh.toc@gmail.com</a> or on
+<a href="https://www.linkedin.com/in/aloksingh-toc">LinkedIn</a>.
+</p>
+
+</div>
